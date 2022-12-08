@@ -22,7 +22,7 @@ function About() {
       <div className="a-desc">
         From School to College lived a desciplined life since i was a part of Bharat Scouts and Guides and won several Awards like
         <p> <strong>Governor Award</strong> as Scout, <strong>President Award</strong> as Scout, <strong>Governor Award</strong> as a <strong>Rover, Service Excellence Award</strong> etc.</p>
-        A Sepiosexual who enjoys the Learning and healthy competitive environment.
+        A Sapiosexual who enjoys the Learning and healthy competitive environment.
       </div>
      
      </div>
